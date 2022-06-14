@@ -102,3 +102,11 @@ function calcularPerimetroCirculo(){
     const perimetroCirculo = perimetro(value);
     alert(perimetroCirculo);
 }
+
+
+function calcularAreaCirculo(){
+    const input = document.getElementById("inputAreaCirculo");
+    const value = input.value;
+    const aareaCirculo = areaCirculo(value);
+    alert(aareaCirculo);
+}
