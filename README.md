@@ -16,3 +16,4 @@
 - Segundo paso: implementar la formula en JS
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
+
