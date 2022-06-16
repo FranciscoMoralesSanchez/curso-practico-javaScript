@@ -17,3 +17,10 @@
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
 
+## Taller N3: Porccentajes y descuentos.
+
+- Primer paso: definir las formulas.
+- Segundo paso: implementar la formula en JS
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
+
