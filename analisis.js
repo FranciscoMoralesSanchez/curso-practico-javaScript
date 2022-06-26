@@ -25,7 +25,7 @@ function calcularMediaAritmetica(lista) {
 };
 
 function medianaSalarios(lista) {
-    const mitad = parseInt(lista.lengh / 2);
+    const mitad = parseInt(lista.length / 2);
 
     if (esPar(lista.lengh)) {
         const personitaMitad1 = lista[mitad - 1];
